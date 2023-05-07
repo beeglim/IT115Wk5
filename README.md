@@ -166,3 +166,4 @@ See my dotfile repository for my master gitignore file. I've added both _cache
 and _site there (along with the standard haskell ignores) and locally I've 
 added bin/site (the compile hakyll binary).
 
+Adding a new line to make a contribution
